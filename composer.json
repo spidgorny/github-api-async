@@ -1,0 +1,22 @@
+{
+	"name": "spidgorny/guzzle-async",
+	"description": "Trying to download GitHub data in parallel",
+	"minimum-stability": "dev",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Slawa",
+			"email": "spidgorny@gmail.com"
+		}
+	],
+	"require": {
+		"guzzle/guzzle": "v3.9.3",
+		"php-http/guzzle6-adapter": "^1",
+		"knplabs/github-api": "^2.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"GitGuzzle\\": ["src/"]
+		}
+	}
+}
