@@ -157,12 +157,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "a1c4a74bf31d4e41d783fafb635c806cc19c2e9b"
+                "reference": "b517bd912afa5aa1033ce434d7138641fd6c31ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/a1c4a74bf31d4e41d783fafb635c806cc19c2e9b",
-                "reference": "a1c4a74bf31d4e41d783fafb635c806cc19c2e9b",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/b517bd912afa5aa1033ce434d7138641fd6c31ab",
+                "reference": "b517bd912afa5aa1033ce434d7138641fd6c31ab",
                 "shasum": ""
             },
             "require": {
@@ -214,7 +214,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2017-03-22 11:33:29"
+            "time": "2017-04-07 20:03:48"
         },
         {
             "name": "guzzlehttp/promises",
@@ -338,12 +338,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/KnpLabs/php-github-api.git",
-                "reference": "387d21e897c245dbb3e4f07bc754dcfddc1ea3cd"
+                "reference": "a6e9b065927ef724ff3b858cde834f3090a66387"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/KnpLabs/php-github-api/zipball/387d21e897c245dbb3e4f07bc754dcfddc1ea3cd",
-                "reference": "387d21e897c245dbb3e4f07bc754dcfddc1ea3cd",
+                "url": "https://api.github.com/repos/KnpLabs/php-github-api/zipball/a6e9b065927ef724ff3b858cde834f3090a66387",
+                "reference": "a6e9b065927ef724ff3b858cde834f3090a66387",
                 "shasum": ""
             },
             "require": {
@@ -396,7 +396,7 @@
                 "gist",
                 "github"
             ],
-            "time": "2017-03-28 08:18:25"
+            "time": "2017-04-08 15:53:18"
         },
         {
             "name": "php-http/cache-plugin",
